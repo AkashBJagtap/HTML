@@ -1,0 +1,7 @@
+caniuse.com
+www.pexels.com
+https://unsplash.com/
+https://validator.w3.org/
+https://jigsaw.w3.org/css-validator/
+https://caniuse.com/
+https://www.google.com/
