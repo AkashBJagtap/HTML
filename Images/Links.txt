@@ -1,4 +1,3 @@
-caniuse.com
 www.pexels.com
 https://unsplash.com/
 https://validator.w3.org/
